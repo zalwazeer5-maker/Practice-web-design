@@ -1,0 +1,84 @@
+p{font-family:times new roman, arial;
+font-size:8px;
+color:blue;
+
+}
+
+header{
+  background:linear-gradient( lightblue )}
+
+
+header{
+  padding: 60px;
+  margin-bottom: 20px;
+  border:60px pink; 
+}
+
+table {table
+padding: 80px;
+margin bottom: 50px;
+border: 70px red;
+}
+
+nav{background-color:pink
+
+}
+
+h1{font-familt:segoe ui, time new roman, arial;
+
+font-size: 50px;
+  letter-spacing: 3px;
+  color: grey;
+  font-weight: bold;
+  text-align: center;
+  nackground-color: lightgrey;
+  border: 2px solid black;
+}
+
+nav {border: 2px solid black;
+  background: lightblue;
+  
+
+}
+
+ul {display: flex;
+  justify-content:center;
+  margin: 0;
+  padding: 0;
+  gap: 28px;
+  
+  
+}
+
+a{text-decoration:none;
+  letter-spacing: 2px;
+  color: black;
+  display: flex;
+  font-family: times new roman, arial;
+  font-size: 20px;
+  color: grey;
+  line-height: 2.4;
+  
+  
+  
+}
+
+h2{font-family:segoe ui, arial;
+  margin: 10px;
+  padding: 10px;
+  font-size: 9px;
+  text-align: center;
+  color: solidblack;
+}
+
+table{border-collapse: collapse;
+  width: 50%;
+  height: 20px;
+  font-family: segoe ui, arial;
+  background-color: lightgrey;
+  font-size: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
